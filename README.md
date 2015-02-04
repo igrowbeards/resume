@@ -35,6 +35,14 @@ For fun I like to make and play retro style video games, read, cook, and spend t
      * Meteor.js/Batman.js
      * Ruby Processing
 
+### CURRENT PROJECTS ###
+
+Blind-Boxd - A ruby on rails application that allows registered users to track, share, and trade thier vinyl art toy collections with other collectors.  Aiming for a invite only alpha launch in March 2015.
+Currently in a private bitbucket repo - email for read access.
+
+SparkBump (working title) - A ruby on rails application that enables and encourages artists, musicians and writers to share and remix their work and the work of others in the style of open source software.
+Currently in a private github repo - email for read access.
+
 ### WORK EXPERIENCE ###
 
 #### Communication Corporation of Tyler ###
