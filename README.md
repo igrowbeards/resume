@@ -26,7 +26,7 @@ For fun I like to make and play retro style video games, read, cook, and spend t
    * Beginner Skill Level
      * Angular
      * Haxe
-   * Familairity With
+   * Familiarity With
      * Ember
      * Python
      * C/C++
